@@ -27,9 +27,9 @@ Dataset Source Link :
 
 ### Check this link for details : [American Gem Society](https://www.americangemsociety.org/ags-diamond-grading-system/)
 
-# AWS Deployment Link :
+# Azure Deployment Link :
 
-AWS Elastic Beanstalk link : [](https://gemstonepriceprediction1.azurewebsites.net/)
+Azure deployment link : (https://gemstonepriceprediction1.azurewebsites.net/)
 
 # Screenshot of UI
 
