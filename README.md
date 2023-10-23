@@ -33,7 +33,7 @@ AWS Elastic Beanstalk link : [](https://gemstonepriceprediction1.azurewebsites.n
 
 # Screenshot of UI
 
-![HomepageUI](./Screenshots/HomepageUI.jpg)
+![HomepageUI](<img width="613" alt="image" src="https://github.com/Raghu-murugankutty/gemstonePrediction/assets/41443395/66b7982b-5594-49ac-b163-7a3f852dab74">)
 
 # YouTube Video Link
 
